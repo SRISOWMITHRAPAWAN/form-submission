@@ -1,0 +1,22 @@
+#content{
+    display: flex;
+    position: relative;
+    left:400px;
+    top:-690px;
+}
+#heading{
+    display: flex;
+    position: relative;
+    left:400px;
+    top:-900px;
+}
+table{
+    width: 950px!important;
+    background-color:white
+}
+#outerbox{
+    margin: 20px;
+}
+body{
+    background-color:lightblue!important;
+}
